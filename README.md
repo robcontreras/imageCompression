@@ -5,7 +5,7 @@ This is a very basic image compression script i made after watching [Ayaka Nonak
 ### Usage
 
 ```
-$: ./imageCompression **images_folder_name**
+$: ./imageCompression.swift images_folder_name
 ```
 
 
